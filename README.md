@@ -15,11 +15,9 @@
 
 ### 关于我
 
-你好，我是 **沐雪程序员**。
+你好，我是 **沐雪程序员**（[ThreeLearnAgain](https://github.com/ThreeLearnAgain)）。
 
-这里是我的 GitHub 主页仓库。账号名 **ThreeLearnAgain** 取意「三学而后，再启程」——把学习当成循环，而不是终点。
-
-个人账号：[zengyirong](https://github.com/zengyirong)（荣心向暖）
+账号名取意「三学而后，再启程」——把学习当成循环，而不是终点。
 
 - 喜欢把知识写进仓库，用代码验证理解
 - 关注工程实践与持续精进
@@ -28,8 +26,6 @@
 ---
 
 ### 技术栈
-
-<!-- 可按实际方向增删徽章 -->
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -57,7 +53,7 @@
 
 ### 当前在做
 
-- [ ] 完善个人主页与公开项目
+- [x] 完善个人主页
 - [ ] 搭建学习实验室仓库
 - [ ] 持续输出可读、可运行的笔记与示例
 
@@ -68,9 +64,6 @@
 <p>
   <a href="https://github.com/ThreeLearnAgain">
     <img src="https://img.shields.io/badge/GitHub-ThreeLearnAgain-2D6A4F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/zengyirong">
-    <img src="https://img.shields.io/badge/GitHub-zengyirong-40916C?style=flat-square&logo=github&logoColor=white" alt="zengyirong" />
   </a>
 </p>
 
